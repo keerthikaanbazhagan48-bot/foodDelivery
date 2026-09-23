@@ -1,4 +1,4 @@
-# foodDelivery
+
 # Food Delivery System
 
 A simple Food Delivery Management System developed using **Java Spring Boot and MySQL**.
